@@ -14,3 +14,4 @@ I don't have specific build instructions for Windows platforms but any old C++ c
 ## ToDo
 - Implement I/O
 - Implement a GUI (??)
+- Properly emulate 65C22 VIA (??)
